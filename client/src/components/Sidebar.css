@@ -1,0 +1,12 @@
+@import "tailwindcss";
+/* Sidebar.css */
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 4rem !important;
+  }
+
+  .main-content {
+    margin-left: 4rem !important;
+  }
+}
